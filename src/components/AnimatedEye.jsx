@@ -72,9 +72,8 @@ const AnimatedEye = () => {
         ref={irisRef}
         style={{
           position: 'absolute',
-          top: '50%',
-          left: '50%',
-          transform: 'translate(-50%, -50%)',
+          top: '30%',
+          left: '30%',
           width: '40%',    /* IRIS SIZE: Adjust percentage (e.g., 30%, 50%) */
           height: '40%',   /* IRIS SIZE: Keep same as width for circular shape */
           pointerEvents: 'none'
