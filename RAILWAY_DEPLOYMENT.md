@@ -80,7 +80,7 @@ Any time you push to your GitHub repository, Railway will automatically redeploy
   [AI-generated conspiracy dialogue about AIPAC]
 
   aipacatlast.com
-  CA:TBA
+  CA:85NTyUsV2R5xptodgA42u2rwABfKs2SHSb8ExMHppump
 
   @NickJFuentes @TuckerCarlson @RealCandaceO
   ```

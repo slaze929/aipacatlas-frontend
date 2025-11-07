@@ -48,7 +48,7 @@ Each tweet follows this structure:
 [AI-generated conspiracy-style dialogue about AIPAC]
 
 aipacatlast.com
-CA:TBA
+CA:85NTyUsV2R5xptodgA42u2rwABfKs2SHSb8ExMHppump
 
 @NickJFuentes @TuckerCarlson @RealCandaceO
 ```
@@ -58,7 +58,7 @@ Example:
 Why does AIPAC wield so much influence in Washington despite its small size? Whose interests do they really serve?
 
 aipacatlast.com
-CA:TBA
+CA:85NTyUsV2R5xptodgA42u2rwABfKs2SHSb8ExMHppump
 
 @NickJFuentes @TuckerCarlson @RealCandaceO
 ```
